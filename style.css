@@ -1,0 +1,41 @@
+
+h3{
+    width: 100%;
+    margin: 0px;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed{
+float: right;
+}
+.div_volume{
+    float: left;
+}
+#speed{
+    color:cyan;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 50px !important;
+}
+#volume{
+    color:cyan;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+    margin:8;
+    padding: 10px;
+    border-radius: 50px !important;
+}
+#play{
+    font-size: 20px;
+    font-family: cursive;
+}
+canvas{
+    border: 5px dashed white;
+    border-radius: 10px;
+}
